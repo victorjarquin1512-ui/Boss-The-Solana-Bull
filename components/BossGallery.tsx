@@ -9,7 +9,8 @@ const bossImages = [
   { src: '/boss-spartan.jpg', label: 'Spartan Warrior' },
   { src: '/boss-lambo.jpg', label: 'Lambo Lifestyle' },
   { src: '/boss-vs-bear.jpg', label: 'Bear Destroyer' },
-  { src: '/boss-poolside.jpg', label: 'Solana Summer' },
+  { src: '/boss-poolside-muscle.jpg', label: 'Solana Summer' },
+  { src: '/boss-private-jet.jpg', label: 'Private Solana Jet' },
 ];
 
 export default function BossGallery() {
